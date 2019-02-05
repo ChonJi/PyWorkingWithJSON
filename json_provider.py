@@ -5,28 +5,39 @@ import pprint
 
 
 class JSONProvider():
-    __file_path__ = 'json/json_file.txt'
+    __file_path__ = 'json/json_file.json'
 
     def __init__(self):
         values = 500
-        url = "https://sonarcloud.io/api/issues/search?componentKeys=ReportComparator&s=FILE_LINE&resolved=false&types=CODE_SMELL&ps=500&pageIndex=1&organization=chonji-github&facets=severities%2Ctypes&additionalFields=_all"
-        urllib.request.urlretrieve(url, self.__file_path__)
-        json_file = open(self.__file_path__, 'r', encoding='utf-8')
-        metrics = json.load(json_file)
-        total = math.ceil(metrics["total"] / values) + 1
-        for index in range(2, total, 1):
-            url = f"https://sonarcloud.io/api/issues/search?componentKeys=ReportComparator&s=FILE_LINE&resolved=false&types=CODE_SMELL&ps=500&pageIndex={index}&organization=chonji-github&facets=severities%2Ctypes&additionalFields=_all"
-            with urllib.request.urlopen(url) as sjson:
-                text = json.load(sjson)
-                issues = str(text["issues"])
-                with open(self.__file_path__, 'w+') as file:
-                    file.write(issues)
+        data_collection = []
+        first_request = urllib.request.urlopen(self.get_url(1))
+        metrics = json.load(first_request)
+        number_of_issues = metrics["total"]
+        data_collection.append(metrics)
+        total_runs = math.ceil(number_of_issues / values) + 1
+        for index in range(2, total_runs, 1):
+            request = urllib.request.urlopen(self.get_url(index))
+            metrics = json.load(request)
+            data_collection.append(metrics)
+        with open(self.__file_path__, 'w') as file:
+            json.dump(data_collection, file, sort_keys=True, indent=2)
 
-    def get_json_file(self):
-        json_file = open(self.__file_path__, 'r', encoding='utf-8')
-        metrics = json.load(json_file)
-        json_file.close()
-        return metrics
+    def get_url(self, index):
+        return (
+            f"https://sonarcloud.io/api/issues/search?componentKeys=ReportComparator&s=FILE_LINE&resolved=false&types=CODE_SMELL&ps=1&pageIndex={index}"
+            "&organization=chonji-github&facets=severities%2Ctypes&additionalFields=_all")
+
+    def create_csv(self):
+        issues_dict = []
+        input_open = json.loads(open(self.__file_path__).read())
+        issues = [issue["issues"] for issue in input_open]
+        for flows in input_open:
+            issue = flows['issues']
+            issues_dict.append(issue)
+        pprint.pprint([debt[0]["debt"] for debt in issues_dict])
+
+
 
 
 jsonProvider = JSONProvider()
+jsonProvider.create_csv()
