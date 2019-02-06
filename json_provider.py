@@ -30,12 +30,13 @@ class JSONProvider():
     def create_csv(self):
         issues_dict = []
         input_open = json.loads(open(self.__file_path__).read())
-        pprint.pprint(input_open)
-
         # issues = [issue["issues"] for issue in input_open]
+        # pprint.pprint(issues)
         # issues = input_open["issues"]
         # flows = issues[0]["flows"]
         # pprint.pprint(issues)
+        for i, issue in range(0, input_open):
+            print(issue)
 
 
 
