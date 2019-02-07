@@ -1,16 +1,18 @@
+import unicodecsv as csv
 import urllib.request
 import json
 import pprint
 
 
 class JSONCreator():
-    __FILE_PATH = 'json/json_file.json'
+    __JSON_FILE_PATH = 'json/json_file.json'
+    __CSV_FILE_PATH = 'csv/file.csv'
     __REQ_MAX_SIZE = 500
 
     def __init__(self):
         self._data = {}
         self.get_data_to_json()
-        with open(self.__FILE_PATH, 'w') as file:
+        with open(self.__JSON_FILE_PATH, 'w') as file:
             json.dump(self._data, file, sort_keys=True, indent=2)
 
     def get_data_to_json(self):
@@ -51,8 +53,24 @@ class JSONCreator():
             "&organization=chonji-github&facets=severities%2Ctypes&additionalFields=_all")
 
     def create_csv(self):
-        input_open = json.loads(open(self.__FILE_PATH).read())
-        pprint.pprint(self._data)
+        with open(self.__JSON_FILE_PATH, 'r') as json_file:
+            data = json.load(json_file)
+
+        values = {}
+        components = data['components']
+        facets = data['facets']
+        for values in facets:
+            for val in values['values']:
+                print(val['val'])
+
+        project_name = 'Project name: ' + components[1]['key']
+        debt_total = 'Debt total: ' + str(data['debtTotal'])
+        print(project_name)
+
+        with open(self.__CSV_FILE_PATH, 'wb') as csv_file:
+            writer = csv.writer(csv_file)
+            writer.writerow([project_name, debt_total])
+            # writer.writerow()
 
 
 create = JSONCreator()
