@@ -62,6 +62,7 @@ class JSONCreator():
         for values in facets:
             for val in values['values']:
                 print(val['val'])
+                print(val['count'])
 
         project_name = 'Project name: ' + components[1]['key']
         debt_total = 'Debt total: ' + str(data['debtTotal'])
