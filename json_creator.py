@@ -89,7 +89,10 @@ class JSONCreator():
             for issue in issues:
                 for flow in issue['flows']:
                     for text in flow['locations']:
-                        writer.writerow({'Component' : issue['component'], 'Message' : text['msg'], 'Start Line' : text['textRange']['startLine'], 'End Line' : text['textRange']['endLine'], 'Debt' : issue['debt'], 'Effort' : issue['effort']})
+                        writer.writerow({'Component': text['component'], 'Message': text['msg'],
+                                         'Start Line': text['textRange']['startLine'],
+                                         'End Line': text['textRange']['endLine'], 'Debt': issue['debt'],
+                                         'Effort': issue['effort']})
 
 
 create = JSONCreator()
