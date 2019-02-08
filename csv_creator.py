@@ -1,12 +1,9 @@
-import datetime
-
-import unicodecsv as csv
-import urllib.request
+import csv
 import json
-import pprint
+import urllib.request
 
 
-class JSONCreator():
+class CSVCreator():
     __JSON_FILE_PATH = 'json/json_file.json'
     __CSV_FILE_PATH = 'csv/file.csv'
     __REQ_MAX_SIZE = 500
@@ -55,45 +52,21 @@ class JSONCreator():
             "&organization=chonji-github&facets=severities%2Ctypes&additionalFields=_all")
 
     def create_csv(self):
-        # with open(self.__JSON_FILE_PATH, 'r') as json_file:
-        #     data = json.load(json_file)
-        # components = data['components']
-        # facets = data['facets']
-        #
-        #
-        # project_name = 'Project name: ' + components[1]['key']
-        # debt_total = 'Debt total: ' + str(data['debtTotal'])
-        # print(project_name)
-        #
-        # with open(self.__CSV_FILE_PATH, 'wb') as csv_file:
-        #     writer = csv.writer(csv_file)
-        #     writer.writerow([project_name, debt_total])
-        #     writer.writerow(['Severity', 'Number'])
-        #     checker = ''
-        #     for values in facets:
-        #         for val in values['values']:
-        #             if val['val'] in checker:
-        #                 break
-        #             writer.writerow([val['val'],str(val['count'])])
-        #             checker = checker + val['val']
-        #     # writer.writerow()
-
-        import csv
-        project_name = self._data['components'][1]['key']
-        issues = self._data['issues']
+        project_name = self._data['components'][1]['key'].replace(' ', '_')
 
         with open(f'csv/{project_name}.csv', 'w', newline='') as new_csv:
             headers = ['Component', 'Message', 'Start Line', 'End Line', 'Debt', 'Effort']
             writer = csv.DictWriter(new_csv, fieldnames=headers)
             writer.writeheader()
-            for issue in issues:
+            for issue in self._data['issues']:
                 for flow in issue['flows']:
                     for text in flow['locations']:
-                        writer.writerow({'Component': text['component'], 'Message': text['msg'],
+                        writer.writerow({'Component': text['component'], 'Message': issue['message'],
                                          'Start Line': text['textRange']['startLine'],
                                          'End Line': text['textRange']['endLine'], 'Debt': issue['debt'],
                                          'Effort': issue['effort']})
 
 
-create = JSONCreator()
-create.create_csv()
+if __name__ == '__main__':
+    create = CSVCreator()
+    create.create_csv()

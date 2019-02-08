@@ -1,161 +1,161 @@
 Component,Message,Start Line,End Line,Debt,Effort
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),266,266,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,202,202,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,245,245,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,256,256,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,176,176,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,138,138,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+3 (incl 2 for nesting),211,211,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),189,189,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),192,192,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,189,189,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+3 (incl 2 for nesting),220,220,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,247,247,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,145,145,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,152,152,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,198,198,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+3 (incl 2 for nesting),224,224,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,173,173,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+4 (incl 3 for nesting),222,222,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),161,161,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,185,185,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,275,275,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,245,245,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),187,187,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),283,283,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,254,254,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+3 (incl 2 for nesting),200,200,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,176,176,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),253,253,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,180,180,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,246,246,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,170,170,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,216,216,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+3 (incl 2 for nesting),267,267,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+3 (incl 2 for nesting),213,213,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,243,243,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,247,247,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,131,131,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),198,198,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),261,261,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,125,125,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),266,266,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,202,202,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,245,245,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,256,256,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,176,176,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,138,138,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+3 (incl 2 for nesting),211,211,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),189,189,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),192,192,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,189,189,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+3 (incl 2 for nesting),220,220,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,247,247,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,145,145,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,152,152,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,198,198,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+3 (incl 2 for nesting),224,224,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,173,173,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+4 (incl 3 for nesting),222,222,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),161,161,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,185,185,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,275,275,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,245,245,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),187,187,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),283,283,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,254,254,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+3 (incl 2 for nesting),200,200,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,176,176,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),253,253,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,180,180,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,246,246,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,170,170,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,216,216,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+3 (incl 2 for nesting),267,267,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+3 (incl 2 for nesting),213,213,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,243,243,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,247,247,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,131,131,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),198,198,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),261,261,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,125,125,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),266,266,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,202,202,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,245,245,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,256,256,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,176,176,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,138,138,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+3 (incl 2 for nesting),211,211,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),189,189,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),192,192,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,189,189,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+3 (incl 2 for nesting),220,220,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,247,247,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,145,145,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,152,152,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,198,198,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+3 (incl 2 for nesting),224,224,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,173,173,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+4 (incl 3 for nesting),222,222,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),161,161,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,185,185,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,275,275,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,245,245,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),187,187,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),283,283,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,254,254,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+3 (incl 2 for nesting),200,200,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,176,176,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),253,253,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,180,180,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,246,246,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,170,170,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,216,216,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+3 (incl 2 for nesting),267,267,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+3 (incl 2 for nesting),213,213,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,243,243,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,247,247,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,131,131,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),198,198,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),261,261,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,125,125,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),266,266,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,202,202,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,245,245,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,256,256,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,176,176,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,138,138,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+3 (incl 2 for nesting),211,211,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),189,189,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),192,192,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,189,189,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+3 (incl 2 for nesting),220,220,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,247,247,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,145,145,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,152,152,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,198,198,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+3 (incl 2 for nesting),224,224,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,173,173,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+4 (incl 3 for nesting),222,222,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),161,161,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,185,185,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,275,275,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,245,245,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),187,187,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),283,283,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,254,254,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+3 (incl 2 for nesting),200,200,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,176,176,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),253,253,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,180,180,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,246,246,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,170,170,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,216,216,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+3 (incl 2 for nesting),267,267,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+3 (incl 2 for nesting),213,213,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,243,243,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,247,247,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,131,131,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),198,198,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+2 (incl 1 for nesting),261,261,54min,54min
-ReportComparator:venv/Lib/site-packages/bs4/__init__.py,+1,125,125,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,266,266,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,202,202,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,245,245,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,256,256,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,176,176,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,138,138,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,211,211,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,189,189,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,192,192,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,189,189,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,220,220,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,247,247,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,145,145,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,152,152,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,198,198,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,224,224,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,173,173,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,222,222,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,161,161,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,185,185,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,275,275,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,245,245,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,187,187,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,283,283,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,254,254,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,200,200,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,176,176,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,253,253,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,180,180,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,246,246,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,170,170,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,216,216,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,267,267,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,213,213,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,243,243,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,247,247,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,131,131,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,198,198,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,261,261,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,125,125,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,266,266,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,202,202,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,245,245,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,256,256,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,176,176,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,138,138,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,211,211,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,189,189,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,192,192,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,189,189,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,220,220,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,247,247,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,145,145,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,152,152,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,198,198,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,224,224,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,173,173,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,222,222,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,161,161,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,185,185,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,275,275,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,245,245,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,187,187,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,283,283,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,254,254,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,200,200,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,176,176,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,253,253,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,180,180,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,246,246,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,170,170,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,216,216,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,267,267,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,213,213,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,243,243,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,247,247,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,131,131,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,198,198,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,261,261,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,125,125,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,266,266,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,202,202,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,245,245,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,256,256,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,176,176,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,138,138,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,211,211,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,189,189,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,192,192,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,189,189,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,220,220,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,247,247,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,145,145,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,152,152,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,198,198,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,224,224,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,173,173,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,222,222,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,161,161,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,185,185,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,275,275,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,245,245,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,187,187,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,283,283,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,254,254,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,200,200,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,176,176,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,253,253,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,180,180,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,246,246,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,170,170,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,216,216,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,267,267,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,213,213,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,243,243,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,247,247,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,131,131,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,198,198,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,261,261,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,125,125,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,266,266,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,202,202,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,245,245,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,256,256,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,176,176,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,138,138,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,211,211,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,189,189,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,192,192,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,189,189,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,220,220,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,247,247,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,145,145,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,152,152,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,198,198,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,224,224,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,173,173,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,222,222,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,161,161,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,185,185,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,275,275,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,245,245,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,187,187,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,283,283,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,254,254,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,200,200,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,176,176,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,253,253,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,180,180,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,246,246,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,170,170,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,216,216,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,267,267,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,213,213,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,243,243,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,247,247,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,131,131,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,198,198,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,261,261,54min,54min
+ReportComparator:venv/Lib/site-packages/bs4/__init__.py,Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.,125,125,54min,54min
