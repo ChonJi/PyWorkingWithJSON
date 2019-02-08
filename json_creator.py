@@ -55,14 +55,12 @@ class JSONCreator():
     def create_csv(self):
         with open(self.__JSON_FILE_PATH, 'r') as json_file:
             data = json.load(json_file)
-
-        values = {}
         components = data['components']
         facets = data['facets']
+        severities = ''
         for values in facets:
             for val in values['values']:
-                print(val['val'])
-                print(val['count'])
+                severities = severities + f"{val['val']}, {val['count']},"
 
         project_name = 'Project name: ' + components[1]['key']
         debt_total = 'Debt total: ' + str(data['debtTotal'])
@@ -71,6 +69,7 @@ class JSONCreator():
         with open(self.__CSV_FILE_PATH, 'wb') as csv_file:
             writer = csv.writer(csv_file)
             writer.writerow([project_name, debt_total])
+            writer.writerow([severities])
             # writer.writerow()
 
 
