@@ -67,9 +67,13 @@ class JSONCreator():
             writer = csv.writer(csv_file)
             writer.writerow([project_name, debt_total])
             writer.writerow(['Severity', 'Number'])
+            checker = ''
             for values in facets:
                 for val in values['values']:
+                    if val['val'] in checker:
+                        break
                     writer.writerow([val['val'],str(val['count'])])
+                    checker = checker + val['val']
             # writer.writerow()
 
 
