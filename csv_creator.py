@@ -1,6 +1,7 @@
 import csv
 import json
 import urllib.request
+from collections import Counter
 
 
 class CSVCreator():
@@ -51,9 +52,7 @@ class CSVCreator():
             f"https://sonarcloud.io/api/issues/search?componentKeys=ReportComparator&s=FILE_LINE&resolved=false&types=CODE_SMELL&ps=500&pageIndex={index}"
             "&organization=chonji-github&facets=severities%2Ctypes&additionalFields=_all")
 
-    def create_csv(self):
-        check_duplicates = ''
-
+    def create_report_csv(self):
         with open(f'csv/report.csv', 'w', newline='') as new_csv:
             headers = ['Project', 'Severity', 'Status', 'Line', 'Message', 'Component', 'Debt', 'Effort',
                        'Creation Date']
@@ -70,7 +69,28 @@ class CSVCreator():
                 except KeyError:
                     continue
 
+    def create_tags_csv(self):
+        tags = []
+        for issue in self._data['issues']:
+            for tag in issue.get('tags'):
+                tags.append(tag)
+
+        tags_dict = dict(Counter(tags))
+
+        total_issues = 0
+
+        with open(f'csv/tags.csv', 'w', newline='') as new_csv:
+            headers = ['Tag Name', 'Number']
+            writer = csv.DictWriter(new_csv, fieldnames=headers)
+            writer.writeheader()
+
+            for key, value in tags_dict.items():
+                total_issues = value + total_issues
+                writer.writerow({'Tag Name': key, 'Number': value})
+            writer.writerow({'Tag Name': 'Total:', 'Number': total_issues})
+
 
 if __name__ == '__main__':
     create = CSVCreator()
-    create.create_csv()
+    create.create_report_csv()
+    create.create_tags_csv()
