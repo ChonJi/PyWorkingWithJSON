@@ -48,23 +48,27 @@ class CSVCreator():
 
     def get_url(self, index):
         return (
-            f"https://sonarcloud.io/api/issues/search?componentKeys=ReportComparator&s=FILE_LINE&resolved=false&types=CODE_SMELL&ps=1&pageIndex={index}"
+            f"https://sonarcloud.io/api/issues/search?componentKeys=ReportComparator&s=FILE_LINE&resolved=false&types=CODE_SMELL&ps=500&pageIndex={index}"
             "&organization=chonji-github&facets=severities%2Ctypes&additionalFields=_all")
 
     def create_csv(self):
-        project_name = self._data['components'][1]['key'].replace(' ', '_')
+        check_duplicates = ''
 
-        with open(f'csv/{project_name}.csv', 'w', newline='') as new_csv:
-            headers = ['Component', 'Message', 'Start Line', 'End Line', 'Debt', 'Effort']
+        with open(f'csv/report.csv', 'w', newline='') as new_csv:
+            headers = ['Project', 'Severity', 'Status', 'Line', 'Message', 'Component', 'Debt', 'Effort',
+                       'Creation Date']
             writer = csv.DictWriter(new_csv, fieldnames=headers)
             writer.writeheader()
             for issue in self._data['issues']:
-                for flow in issue['flows']:
-                    for text in flow['locations']:
-                        writer.writerow({'Component': text['component'], 'Message': issue['message'],
-                                         'Start Line': text['textRange']['startLine'],
-                                         'End Line': text['textRange']['endLine'], 'Debt': issue['debt'],
-                                         'Effort': issue['effort']})
+                try:
+                    writer.writerow({'Project': issue.get('project', 'Null'), 'Severity': issue.get('severity', 'Null'),
+                                     'Status': issue.get('status', 'Null'), 'Line': issue.get('line', 'Null'),
+                                     'Message': issue.get('message', 'Null'),
+                                     'Component': issue.get('component', 'Null'), 'Debt': issue.get('debt', 'Null'),
+                                     'Effort': issue.get('effort', 'Null'),
+                                     'Creation Date': issue.get('creationDate', 'Null')})
+                except KeyError:
+                    continue
 
 
 if __name__ == '__main__':
